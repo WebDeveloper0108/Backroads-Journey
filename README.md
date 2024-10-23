@@ -68,9 +68,3 @@ In the project directory, you can run:
 - HTML5 & CSS3
 - React Router
 - Webpack
-
-## License
-This project is licensed under the MIT License.
-```
-
-Let me know if you'd like any adjustments or if you need further customization!
